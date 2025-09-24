@@ -6,6 +6,8 @@ Java (Maven) application for tracking time on the job
 
 Simple Java-app using Maven.
 
+Checking the polling function
+
 ## Building
 
 Standard maven targets for building.
