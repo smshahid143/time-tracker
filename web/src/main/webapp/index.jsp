@@ -8,10 +8,10 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>Trinity Engine developed by shahid</title>
+    <title>Super Simple Example Web Page</title>
 </head>
 <body>
-  <h1>Super Simple Example Web Page</h1>
+  <h1>Trinity Engine developed by shahid</h1>
   <p>
     This is a very simple example Created by Shahid.
   </p>
